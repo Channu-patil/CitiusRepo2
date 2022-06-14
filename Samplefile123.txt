@@ -1,4 +1,5 @@
 Git Commands
+//For new 
 1.Create a new repo in the GitHub
 2. Create a new folder and open cmd prompt
 3. Clone the repo --> git clone <repo location>
@@ -7,3 +8,10 @@ Git Commands
 6. Add the file to the Tracked state --> git add .
 7. Commit to Local Repo --> git commit -m <"message">
 8. push it to GitHub Repo --> git push
+
+//For Modification
+1. Modify File
+2. check status --> git status
+3. Add the file to the Tracked state --> git add .
+4. Commit to Local Repo --> git commit -m <"message">
+5. push it to GitHub Repo --> git push
