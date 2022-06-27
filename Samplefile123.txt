@@ -15,3 +15,8 @@ Git Commands
 3. Add the file to the Tracked state --> git add .
 4. Commit to Local Repo --> git commit -m <"message">
 5. push it to GitHub Repo --> git push
+
+//Local to Hub
+git remote
+git push --set-upstream origin master  --> origin master means push it in master branch instead of master we can push to other branches as well by mentioning the branch Name
+git init --> initialise empty git repository in local
